@@ -1,0 +1,6 @@
+{
+  "name": "Pitcher Pitch Log",
+  "description": "野球のピッチャー陣でストライク率と球数をみんなが共有して記録できるアプリ。Googleドライブと連携してデータを保存・共有します。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
